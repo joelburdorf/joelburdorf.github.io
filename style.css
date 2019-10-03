@@ -7,15 +7,15 @@ h1 {
   width: 100%;
   font-weight: 300;
   text-align: center;
-  font-size: 1.75rem;
-  color: #D6B47E;
+  font-size: 2.2rem;
+  color: red;
 
 }
 
 h5 {
   display: inline-block;
   text-align: center;
-  background-color: #D6B47E;
+  background-color: red;
   padding: 3px 10px;
   margin: 5px;
   color: white;
