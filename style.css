@@ -1,6 +1,10 @@
-p {
-color: black;
+body {
+font-family: 'Raleway', sans-serif;
+
+  p { 
+    color: black;
 }
 .container {
   min-height: 100%;
   display: flex;
+
