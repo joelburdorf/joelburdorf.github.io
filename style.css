@@ -21,3 +21,9 @@ h5 {
   color: white;
   
 }
+#footer {
+  text-align: center;
+  color: black;
+  font-weight: 300;
+  width: 100%;
+  font-size: 1.25rem;
