@@ -22,10 +22,18 @@ h5 {
   margin: 5px;
   color: white;
   
+  height: 100%;
 }
-#footer {
-  text-align: center;
-  color: black;
-  font-weight: 300;
-  width: 100%;
-  font-size: 1.25rem;
+
+.purple-square-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.purple-square {
+  background-color: #B10DC9;
+  width: 300px;
+  height: 300px;
+}
