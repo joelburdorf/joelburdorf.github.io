@@ -28,7 +28,7 @@ h5 {
     #referenceBtn {
         position: fixed;
         bottom: 10px;
-        float: left;
+        float: right;
         right: 18.5%;
         left: 77.25%;
         max-width: 30px;
