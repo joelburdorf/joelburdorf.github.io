@@ -33,17 +33,15 @@ h5 {
 
     #referenceBtn {
         position: fixed;
-        bottom: 10px;
+        bottom: 20px;
         float: right;
-        right: 78;
+        right: 17;
         left: 78;
-        max-width: 30px;
+        max-width: 50px;
         width: 100%;
         font-size: 40px;
-        border-color: rgba(85, 85, 85, 0.2);
-        background-color: rgb(100,100,100);
         padding: .5px;
-        border-radius: 8px;
+      
 
     }
 
