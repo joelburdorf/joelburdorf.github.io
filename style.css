@@ -25,6 +25,12 @@ h5 {
   height: 100%;
 }
 
+.container {width:960px;
+      margin:0 auto;
+      padding:10px 25px;
+      border:1px solid #ccc;
+      background:#fff; }
+
     #referenceBtn {
         position: fixed;
         bottom: 10px;
