@@ -31,20 +31,5 @@ h5 {
       border:1px solid #ccc;
       background:#fff; }
 
-    #referenceBtn {
-        position: fixed;
-        bottom: 20px;
-        float: right;
-        right: 17;
-        left: 78;
-        max-width: 50px;
-        width: 100%;
-        font-size: 40px;
-        padding: .5px;
-      
 
-    }
-
-    #myreferenceBtn:hover {
-        background-color: #7dbbf1;
 
