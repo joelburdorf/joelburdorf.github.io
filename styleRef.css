@@ -25,4 +25,10 @@ p  {
   
 }
 
+.container {width:960px;
+      margin:0 auto;
+      padding:10px 25px;
+      border:1px solid #ccc;
+      background:#fff; }
+
 
