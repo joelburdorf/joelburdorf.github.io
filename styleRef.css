@@ -1,8 +1,4 @@
-}
 
-.underline {
-  text-decoration: underline;
-}
 
 body {
 font-family: 'Raleway', sans-serif;
@@ -26,4 +22,8 @@ p  {
   font-size: 1.1rem;
   color: black;
   
+}
+
+.underline {
+  border-bottom: 2px solid currentColor;
 }
